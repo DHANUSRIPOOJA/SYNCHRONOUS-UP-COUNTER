@@ -54,6 +54,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
     end
     endmodule
 
+
+**TRUTH TABLE:**
+
+![WhatsApp Image 2024-12-20 at 1 54 25 PM](https://github.com/user-attachments/assets/be75dfc3-8415-4c30-a9bc-3258609ee1d1)
+
 **RTL LOGIC UP COUNTER:**
 
 ![Screenshot 2024-12-27 173637](https://github.com/user-attachments/assets/d82c9447-366f-4e62-83fb-1da85f668257)
@@ -62,11 +67,6 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **TIMING DIAGRAM FOR IP COUNTER:**
 
 ![image](https://github.com/user-attachments/assets/aff9423f-82b2-49ca-9423-48f6f40ff73e)
-
-
-**TRUTH TABLE:**
-
-![WhatsApp Image 2024-12-20 at 1 54 25 PM](https://github.com/user-attachments/assets/be75dfc3-8415-4c30-a9bc-3258609ee1d1)
 
 
 **RESULT:**
